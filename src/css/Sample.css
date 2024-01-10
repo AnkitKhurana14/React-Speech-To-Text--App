@@ -1,0 +1,59 @@
+.btn1
+{
+    background-color: blueviolet;
+    padding:20px;
+    border-radius: 20px;
+    width:100px;
+    color: white;
+    margin:5px;
+    margin-right: 20px;
+
+}
+.btn2
+{
+    background-color: blueviolet;
+    padding:20px;
+    border-radius:20px;
+    width:100px;
+    color:white;
+    margin:5px;
+    margin-right: 20px;
+
+}
+.btn3
+{
+    background-color: blueviolet;
+    padding:20px;
+    border-radius: 20px;
+    width:100px;
+    color:white;
+    margin:5px;
+    margin-right: 20px;
+
+}
+.btn
+{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.btn1:hover{
+    transition: 0.2s;
+    background-color:cyan;
+
+}
+.btn2:hover{
+    transition: 0.2s;
+    background-color:cyan;
+
+}
+.btn3:hover{
+    transition: 0.2s;
+    background-color:cyan;
+
+}
+.transcript
+{
+    border:2px solid purple;
+    width: 350px;
+    height:300px;
+}
